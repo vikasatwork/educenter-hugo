@@ -1,5 +1,5 @@
 ---
-title: Testing Blog Title
+title: Testing Blog Title 1
 date: '2019-07-06T15:27:17.000+06:00'
 bg_image: "/images/teachers/teacher-2.jpg"
 description: Testing Blog Description
